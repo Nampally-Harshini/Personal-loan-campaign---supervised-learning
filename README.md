@@ -1,4 +1,4 @@
-Project Overview
+Project Overview :
 This project analyzes data from a personal loan campaign to understand customer profiles and predict which customers are likely to accept a personal loan offer.
 The analysis leverages data science techniques to extract actionable business insights and build predictive models that can help financial institutions
 target the right customers, optimize marketing strategies, and improve campaign effectiveness.
